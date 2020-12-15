@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Health Summary Fragment -->
+    <item
+        android:id="@+id/menuHealthSummary"
+        android:icon="@drawable/ic_health_summary"
+        android:title="@string/summary"
+        />
+
+    <!-- View Health Graph Fragment -->
+    <item
+        android:id="@+id/menuHealthGraph"
+        android:icon="@drawable/ic_view_health_graph"
+        android:title="@string/viewData"
+        />
+
+    <!-- Add Health Data Fragment -->
+    <item
+        android:id="@+id/menuAddHealthData"
+        android:icon="@drawable/ic_add_health_data"
+        android:title="@string/addData"
+        />
+
+</menu>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HealthMonitorApp</string>
+    <string name="hmp">Health Monitor</string>
+    <string name="login">Log In</string>
+    <string name="profile">Add Health Data</string>
+    <string name="summary">Health Summary</string>
+    <string name="addData">Add/Change Data</string>
+    <string name="viewData">View Health Graph</string>
+    <string name="username">Ross Nikolai Montepalco</string>
+    <string name="register">Register</string>
+    <string name="logout">Log Out</string>
+    <string name="submit">Submit</string>
+    <string name="createAnAccount">Create an Account</string>
+    <string name="copyright">© 2020 CMPE 131-04 Group 5</string>
+</resources>

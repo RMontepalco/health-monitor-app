@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/menuHealthSummary">
+
+    <fragment
+        android:id="@+id/menuHealthSummary"
+        android:name="com.example.HealthMonitorApp.HealthSummary"
+        android:label="Health Summary"
+        tools:layout="@layout/fragment_health_summary" />
+    <fragment
+        android:id="@+id/menuHealthGraph"
+        android:name="com.example.HealthMonitorApp.HealthGraph"
+        android:label="Health Graph"
+        tools:layout="@layout/fragment_health_graph" />
+    <fragment
+        android:id="@+id/menuAddHealthData"
+        android:name="com.example.HealthMonitorApp.AddHealthData"
+        android:label="Add/Change Data"
+        tools:layout="@layout/fragment_add_health_data" />
+</navigation>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "483414628633",
+    "firebase_url": "https://healthmonitorapp-group5.firebaseio.com",
+    "project_id": "healthmonitorapp-group5",
+    "storage_bucket": "healthmonitorapp-group5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483414628633:android:ad95ce37f6472353308d88",
+        "android_client_info": {
+          "package_name": "com.example.HealthMonitorApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483414628633-030o1hv2tn1i97sm308b2hjs47pilt3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiRl5WcnOSLMZ-eViqBpjJP3netQwL5mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483414628633-030o1hv2tn1i97sm308b2hjs47pilt3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483414628633:android:649fa678f1b61e1f308d88",
+        "android_client_info": {
+          "package_name": "com.example.healthmonitorprototype3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483414628633-030o1hv2tn1i97sm308b2hjs47pilt3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiRl5WcnOSLMZ-eViqBpjJP3netQwL5mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483414628633-030o1hv2tn1i97sm308b2hjs47pilt3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
